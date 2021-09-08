@@ -1,7 +1,17 @@
 # Lecture 1
 
-The first lecture involves using KNN and PCA to predict the label of new images.
+Challenge
+- Try different values for k (passed to the KNeighborsClassifier constructor)- What can you achieve for MNIST and CIFAR-10?
+- Visualize some of the errors (image, ground truth, predicted)
 
-Results by using KNN and PCA, and data reduction with a factor 1/6:
+----------------------------------------------------------------
+
+Bonus: 
+- Try different metrics (passed to the KNeighborsClassifier constructor)
+- Try extracting features by decomposing the images with PCA (sklearn
+
+----------------------------------------------------------------
+
+Results by using KNN and PCA, and data reduction by a factor of 1/6:
 - MNIST results : 0.9517
 - CIFAR10 results : 0.2889
