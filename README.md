@@ -17,3 +17,12 @@ Results by using KNN and PCA, and data reduction by a factor of 1/6:
 - CIFAR10 results : 0.2889
 
 # Lecture 2
+
+Challenge
+- Logistic regression in 2D.
+
+----------------------------------------------------------------
+
+Bonus:
+- Logistic regression in 3D.
+- Logistic regression on MNIST.
