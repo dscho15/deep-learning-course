@@ -13,8 +13,8 @@ Bonus:
 ----------------------------------------------------------------
 
 Results by using KNN and PCA, and data reduction by a factor of 1/6:
-- MNIST results : 0.9517
-- CIFAR10 results : 0.2889
+- MNIST results : ``0.9517%``
+- CIFAR10 results : ``0.2889%``
 
 # Lecture 2
 
