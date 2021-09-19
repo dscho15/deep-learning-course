@@ -19,6 +19,6 @@ Results by using KNN and PCA, and data reduction by a factor of 1/6:
 # Lecture 2
 
 Challenge
-- Logistic regression in 2D, reaching 93% accuracy.
-- Logistic regression in 3D, reaching 91.6% accuracy.
-- Logistic regression on MNIST, reaching 91.4% accuracy with PCA=48.
+- Logistic regression in 2D, ``reaching 93% accuracy``.
+- Logistic regression in 3D, ``reaching 91.6% accuracy``.
+- Logistic regression on MNIST, ``reaching 91.4% accuracy with PCA=48``.
