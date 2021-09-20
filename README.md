@@ -35,7 +35,7 @@ Challenge
 
 ----------------------------------------------------------------
 
-Results by using a 100-layer, one hidden net:
+Results by using a 128-layer, one hidden net:
 - 91.3% accuracy on CIFAR test data.
 
 
