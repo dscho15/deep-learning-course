@@ -20,5 +20,22 @@ Results by using KNN and PCA, and data reduction by a factor of 1/6:
 
 Challenge
 - Logistic regression in 2D, ``reaching 93% accuracy``.
+
+----------------------------------------------------------------
+
+Bonus:
 - Logistic regression in 3D, ``reaching 91.6% accuracy``.
 - Logistic regression on MNIST, ``reaching 91.4% accuracy with PCA=48``.
+
+# Lecture 3
+
+Challenge
+- Get familiar with PyTorch
+- Create a DL and try it on CIFAR10.
+
+----------------------------------------------------------------
+
+Results by using a 100-layer, one hidden net:
+- 91.3% accuracy on CIFAR test data.
+
+
