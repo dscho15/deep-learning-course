@@ -37,5 +37,6 @@ Challenge
 
 Results by using a 256-four-hiddenlayers net, heavy-dropout, large capacity:
 - 57.92% accuracy on CIFAR test data.
+- 73.02% accuracy on CIFAR with small CNN.
 
 
