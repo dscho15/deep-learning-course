@@ -37,6 +37,11 @@ Challenge
 
 Results by using a 256-four-hiddenlayers net, heavy-dropout, large capacity:
 - 57.92% accuracy on CIFAR test data.
-- 73.02% accuracy on CIFAR with small CNN.
+- 76.02% accuracy on CIFAR with small CNN and data-transformations.
 
+# Lecture 4
 
+Challenge
+- Try to solve CIFAR10 with your own numpy (MLP) neural network, i.e. implement backprop, gradient descent, batch.
+
+----------------------------------------------------------------
