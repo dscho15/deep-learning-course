@@ -49,3 +49,8 @@ Challenge
 Results by using a single-layer, which is "handmade" in numpy:
 - ``59.04% accuracy`` on CIFAR test data (not fine-tuned).
 
+# Lecture 5
+
+Challenge
+- The exercise is clearly stated in the slides
+
