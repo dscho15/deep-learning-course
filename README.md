@@ -54,3 +54,6 @@ Results by using a single-layer, which is "handmade" in numpy:
 Challenge
 - The exercise is clearly stated in the slides
 
+----------------------------------------------------------------
+
+- ``62.25% accuracy`` on CIFAR test data (not fine-tuned).
