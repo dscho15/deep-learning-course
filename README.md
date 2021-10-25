@@ -65,4 +65,4 @@ Challenge
 
 ----------------------------------------------------------------
 
-- ``0.8947% accuracy`` on CIFAR with large CNN and data-transformations.
+- ``89.47% accuracy`` on CIFAR with large CNN and data-transformations.
