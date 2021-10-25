@@ -57,3 +57,12 @@ Challenge
 ----------------------------------------------------------------
 
 - ``62.25% accuracy`` on CIFAR test data (not fine-tuned).
+
+# Lecture 7
+
+Challenge
+- Create a CNN and try it on CIFAR10.
+
+----------------------------------------------------------------
+
+- ``87.02% accuracy`` on CIFAR with large CNN and data-transformations.
