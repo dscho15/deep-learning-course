@@ -66,3 +66,13 @@ Challenge
 ----------------------------------------------------------------
 
 - ``89.47% accuracy`` on CIFAR with large CNN and data-transformations.
+
+# Lecture 8
+
+Challenge
+- Create an autoencoder for celebA 
+- Create a VAE for mnist
+
+----------------------------------------------------------------
+- I somewhat skipped the exercise, and went for VAE on celebA.
+- It seems very difficult to find the correct set of hyperparameters, which is needed to train a VAE.
