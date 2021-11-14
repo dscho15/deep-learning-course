@@ -76,3 +76,12 @@ Challenge
 ----------------------------------------------------------------
 - I somewhat skipped the exercise, and went for VAE on celebA.
 - It seems very difficult to find the correct set of hyperparameters, which is needed to train a VAE.
+
+# Lecture 9
+
+Challenge
+- Train an RNN to classify spam emails
+- Trian an RNN to sort arrays
+
+----------------------------------------------------------------
+- I managed to do the first exercise, first, by using chars, secondly, by using words. Neither, does better than randomly guess i.e. 85% correct.
